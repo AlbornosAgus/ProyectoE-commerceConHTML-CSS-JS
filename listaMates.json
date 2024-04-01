@@ -1,0 +1,83 @@
+{
+    "mates":[
+            {
+                "id": 1,
+                "imagen" :"Img/Mario.jpeg",
+                "tipo" :"Personalizado",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 100,
+                "stock": 15
+            },
+            {
+                "id": 2,
+                "imagen" :"Img/Mate-tabla.jpeg",
+                "tipo" :"Mate-tabla",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 100,
+                "stock": 15
+            },
+            {
+                "id": 3,
+                "imagen" :"Img/Cactus.jpeg",
+                "tipo" :"Cactus",
+                "material": "Metal",
+                "tamaño":"L",
+                "precio": 300,
+                "stock": 7
+            },
+            {
+                "id": 4,
+                "imagen" :"Img/Perros.jpeg",
+                "tipo" :"Personalizado",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 200,
+                "stock": 0
+            },
+            {
+                "id": 5,
+                "imagen" :"Img/Paisaje.jpeg",
+                "tipo" :"Paisaje",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 400,
+                "stock": 12
+            },
+            {
+                "id": 6,
+                "imagen" :"Img/DisenioMulticolor.jpeg",
+                "tipo" :"Diseño multicolor",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 400,
+                "stock": 11
+            },
+            {
+                "id": 7,
+                "imagen" :"Img/Luna-vela.jpeg",
+                "tipo" :"Luna-vela",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 700,
+                "stock": 14
+            },
+            {
+                "id": 8,
+                "imagen" :"Img/Kalo.jpeg",
+                "tipo" :"Frida Kalo",
+                "material": "Madera",
+                "tamaño":"L",
+                "precio": 800,
+                "stock": 22
+            }
+    ]
+
+}
+
+
+
+
+
+
