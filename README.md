@@ -68,5 +68,5 @@ Este proyecto no tiene una licencia específica.
 
 ## Contacto
 
-Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: [agusalbornos](https://www.linkedin.com/in/agustinmarianoalbornos/).
+Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: [Agustin Mariano Albornos](https://www.linkedin.com/in/agust%C3%ADn-mariano-albornos-2bb21b213/).
 
